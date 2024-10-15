@@ -14,7 +14,7 @@
 
 I am a mobile app developer with a passion for all things tech. I enjoy writing, collaborating, and savoring a good instant coffee. My obsessive attention to detail drives me to create apps that make a difference. I love using my skills to build solutions that have a positive impact on the world.
 
-<iframe src="https://giphy.com/embed/Rpl1sod1vCXK0L2SUN" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-sugartown-mayor-mel-Rpl1sod1vCXK0L2SUN"></a></p>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="350" height="200" />
   
 
 </br>
