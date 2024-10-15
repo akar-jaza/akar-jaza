@@ -6,14 +6,15 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/akar_II0I)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akar.jaza011)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&su=Inbox+(962)+-+akar.jaza1212@gmail.com+-+Gmail&body=https://mail.google.com/mail/u/0/%23inbox)
+<hr>
 
-</br>
+
 
 ### Glad to see you here! &nbsp; 
 
 I am a mobile app developer with a passion for all things tech. I enjoy writing, collaborating, and savoring a good instant coffee. My obsessive attention to detail drives me to create apps that make a difference. I love using my skills to build solutions that have a positive impact on the world.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="250" />
   
 
 </br>
@@ -27,10 +28,12 @@ I am a mobile app developer with a passion for all things tech. I enjoy writing,
 - 📫 How to reach me: akar.jaza1212@gmail.com
 
 </br>
-</br>
+
+<hr>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akar-jaza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akar-jaza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
 
