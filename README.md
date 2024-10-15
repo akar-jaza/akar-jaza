@@ -14,7 +14,7 @@
 
 I am a mobile app developer with a passion for all things tech. I enjoy writing, collaborating, and savoring a good instant coffee. My obsessive attention to detail drives me to create apps that make a difference. I love using my skills to build solutions that have a positive impact on the world.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="300" height="200" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="350" height="200" />
   
 
 </br>
