@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/5aa0cdb7-fb7b-4f9a-b513-3eec1493a41d" height="400" />
+<div style="background-image: url('https://github.com/user-attachments/assets/5aa0cdb7-fb7b-4f9a-b513-3eec1493a41d'); background-size: cover; padding: 40px; text-align: center; color: white;">
 <h1><samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank" style="color: white; text-decoration: none;">Akar Jaza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp></h1>
 </div>
 
