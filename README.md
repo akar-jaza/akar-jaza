@@ -1,4 +1,5 @@
 
+
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Akar Jaza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akar-ii0i/)
@@ -9,9 +10,13 @@
 
 ### Glad to see you here! &nbsp; 
 
-<div style="display: flex; align-items: center;" >
-  <p style="margin-right: 15px;">I am a mobile app developer with a passion for all things tech. I enjoy writing, collaborating, and savoring a good instant coffee. My obsessive attention to detail drives me to create apps that make a difference. I love using my skills to build solutions that have a positive impact on the world.</p>
-    <div style="margin-right:20px;">  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" ></div>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 15px; max-width: 300px;">
+    I am a mobile app developer with a passion for all things tech. I enjoy writing, collaborating, and savoring a good instant coffee. My obsessive attention to detail drives me to create apps that make a difference. I love using my skills to build solutions that have a positive impact on the world.
+  </p>
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="margin-left: 15px;">
+  </div>
 </div>
 
 </br>
