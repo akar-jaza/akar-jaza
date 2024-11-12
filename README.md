@@ -1,4 +1,5 @@
-![mario-gif](https://github.com/user-attachments/assets/47926bc6-1417-4e36-bc6e-7ce3021b7b18)
+
+![mario-gif-ezgif com-crop](https://github.com/user-attachments/assets/650ae4ca-4a21-4169-81b3-66e28e6a11c9)
 
 <h1><samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank" style="color: white; text-decoration: none;">Akar Jaza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp></h1>
 </div>
