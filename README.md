@@ -14,7 +14,7 @@
 
 I am a mobile app developer with a passion for all things tech. I enjoy writing, collaborating, and savoring a good instant coffee. My obsessive attention to detail drives me to create apps that make a difference. I love using my skills to build solutions that have a positive impact on the world.
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </br>
 
