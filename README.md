@@ -4,8 +4,6 @@
 <h1><samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank" style="color: white; text-decoration: none;">Akar Jaza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp></h1>
 </div>
 
----
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akar-ii0i/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/akar_II0I)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akar.jaza011)
