@@ -61,7 +61,8 @@ I'm a **mobile app developer** with a passion for clean code, a love for collabo
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akar-jaza&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akar-jaza&theme=github_dark" alt="Most Used Languages" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akar-jaza&theme=github_dark&utcOffset=3" alt="Productive Time" />
 </p>
 
 ---
