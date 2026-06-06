@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/akar-ii0i/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/akar_II0I"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.facebook.com/akar.jaza011"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="mailto:akar.jaza1212@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:akar.dev@icloud.com"><img src="https://img.shields.io/badge/Mail-005571?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail" /></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ I'm a **mobile app developer** with a passion for clean code, a love for collabo
 - 🌱 Deepening my mastery of advanced **Dart** and clean architecture
 - 👯 Open to collaborating on **Flutter**, **Dart**, and **Laravel** projects
 - 💬 Ask me about **Flutter/Dart**, **Laravel**, or anything **IT**
-- 📫 Reach me at **[akar.jaza1212@gmail.com](mailto:akar.jaza1212@gmail.com)**
+- 📫 Reach me at **[akar.dev@icloud.com](mailto:akar.dev@icloud.com)**
 
 ---
 
@@ -51,13 +51,17 @@ I'm a **mobile app developer** with a passion for clean code, a love for collabo
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akar-jaza&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akar-jaza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akar-jaza&theme=github_dark" alt="Profile Details" />
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=akar-jaza&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akar-jaza&theme=github_dark" alt="GitHub Stats" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akar-jaza&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akar-jaza&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
