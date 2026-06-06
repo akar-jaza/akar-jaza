@@ -57,7 +57,7 @@ I'm a **mobile app developer** with a passion for clean code, a love for collabo
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akar-jaza&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=akar-jaza&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
