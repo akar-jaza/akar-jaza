@@ -20,17 +20,7 @@
 
 ### 👋 Glad you stopped by!
 
-I'm a **mobile app developer** with a passion for clean code, a love for collaboration, and a sharp eye for detail. I build cross-platform apps with **Flutter & Dart** and power them with robust **Laravel** backends. Driven to create software that genuinely makes a difference — and yes, fueled by a good cup of coffee along the way. ☕
-
----
-
-### 🚀 What I'm Up To
-
-- 🔭 Currently building **شەونوێژ (Shewnwêzh)** — a Flutter app I'm pouring my heart into
-- 🌱 Deepening my mastery of advanced **Dart** and clean architecture
-- 👯 Open to collaborating on **Flutter**, **Dart**, and **Laravel** projects
-- 💬 Ask me about **Flutter/Dart**, **Laravel**, or anything **IT**
-- 📫 Reach me at **[akar.dev@icloud.com](mailto:akar.dev@icloud.com)**
+I'm a **mobile app developer** with a passion for clean code, a love for collaboration, and a sharp eye for detail. I build cross-platform apps with **Flutter & Dart** and power them with robust **Laravel** backends. Driven to create software that genuinely makes a difference.
 
 ---
 
@@ -55,16 +45,12 @@ I'm a **mobile app developer** with a passion for clean code, a love for collabo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akar-jaza&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akar-jaza&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akar-jaza&theme=tokyonight" alt="GitHub Stats" />
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akar-jaza&theme=tokyonight" alt="Top Languages by Repo" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akar-jaza&theme=tokyonight" alt="Top Languages by Commit" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akar-jaza&theme=github_dark" alt="GitHub Stats" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akar-jaza&theme=github_dark" alt="Top Languages by Repo" />
 </p>
 
 ---
