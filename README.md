@@ -55,16 +55,16 @@ I'm a **mobile app developer** with a passion for clean code, a love for collabo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akar-jaza&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akar-jaza&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akar-jaza&theme=github_dark" alt="GitHub Stats" />
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akar-jaza&theme=github_dark" alt="Top Languages" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akar-jaza&theme=tokyonight" alt="GitHub Stats" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akar-jaza&theme=tokyonight" alt="Top Languages by Repo" />
 </p>
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akar-jaza&theme=github_dark" alt="Most Used Languages" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akar-jaza&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 ---
