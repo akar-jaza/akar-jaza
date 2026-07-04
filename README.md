@@ -19,7 +19,7 @@
 
 ### 👋 Glad you stopped by!
 
-I'm a **mobile app developer** with a passion for clean code, a love for collaboration, and a sharp eye for detail. I build cross-platform apps with **Flutter & Dart** and power them with robust **Laravel** backends. Driven to create software that genuinely makes a difference.
+I'm a **mobile app developer** with a passion for clean code, a love for collaboration, and a sharp eye for detail. I'm building native iOS skills with **Swift**, alongside cross-platform apps in **Flutter & Dart**, and robust backends with **Laravel**. Driven to create software that genuinely makes a difference.
 
 ---
 
