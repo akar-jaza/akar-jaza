@@ -3,7 +3,7 @@
 
 <h1 align="center"><samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank" style="color: light-blue; text-decoration: none;">Akar Jaza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp></h1>
 
-<p align="center"><samp>Flutter &amp; Dart Developer · Laravel Backend · IT Enthusiast</samp></p>
+<p align="center"><samp>Swift · Flutter/Dart Developer · Laravel Backend · IT Enthusiast</samp></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+cross-platform+apps;Flutter+on+the+front%2C+Laravel+on+the+back;Turning+ideas+into+pixel-perfect+products" alt="Typing SVG" />
