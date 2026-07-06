@@ -6,7 +6,7 @@
 <p align="center"><samp>Swift · Flutter/Dart Developer · Laravel Backend · IT Enthusiast</samp></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Crafting+beautiful+cross-platform+apps;Flutter+on+the+front%2C+Laravel+on+the+back;Turning+ideas+into+pixel-perfect+products" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Building+native+iOS+experiences;Swift+%26+UIKit%2C+crafted+with+care;Turning+ideas+into+pixel-perfect+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
